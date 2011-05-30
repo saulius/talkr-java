@@ -1,6 +1,6 @@
 # About
 
-Simple event based plain text chat server written in java in the university. Server and client are also available in c++ at: http://github.com/saulusg/talkr-cpp
+Simple event based plain text chat server written in java in the university. Server and client are also available in c++ at: http://github.com/sauliusg/talkr-cpp
 
 # Usage
 
